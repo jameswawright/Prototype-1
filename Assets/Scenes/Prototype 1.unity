@@ -508,6 +508,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   speed: 15
+  turnSpeed: 3.42
+  horizontalInput: 0
+  verticalInput: 0
 --- !u!54 &212185943
 Rigidbody:
   m_ObjectHideFlags: 0
